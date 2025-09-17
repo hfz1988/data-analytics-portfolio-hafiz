@@ -40,7 +40,7 @@ Berikut beberapa proyek analisis data yang saya kerjakan dalam rangka sertifikas
   👉 Lihat Dashboard di Tableau Public: [UK E-Commerce Dashboard](https://public.tableau.com/app/profile/hafiz.mustafa.harras/viz/DashboardIntermediate/Dashboard1)  
 
   🖼️ Preview:  
-  ![UK E-Commerce Dashboard](uk-ecommerce-dashboard.png)  
+  ![UK E-Commerce Dashboard](images/uk-ecommerce-dashboard.png)  
 
 - **[Weather Data Analysis](https://github.com/hfz1988/weather-analysis)** 📚 Learning Project  
   SQL query practice dan data visualization menggunakan Python.  
