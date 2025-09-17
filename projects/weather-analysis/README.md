@@ -14,7 +14,7 @@ Project ini dibuat sebagai latihan tambahan di luar sertifikasi resmi.
 
 🖼️ **Preview (Extreme Heat, Cold & Windy Days)**  
 ![Extreme Heat, Cold & Windy Days](images/extreme_heat_cold_windy.png)  
-📊 **Insight Interpretasi Chart dan Pemanfaatan data lanjutan**
+📊 **Insight Interpretasi Chart dan Pemanfaatan data lanjutan**  
 Visualisasi ini menunjukkan:
 1. **Hari dingin ekstrem** (<32 °F) lebih sering terjadi dibanding hari panas ekstrem (>90 °F) dan hari berangin ekstrem (>20 mph).
 2. Jumlah **hari dingin ekstrem** meningkat tajam di akhir tahun (Oktober–Desember), dengan puncak pada November.
