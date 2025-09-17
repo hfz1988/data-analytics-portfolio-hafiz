@@ -1,7 +1,6 @@
 # 📂 Data Analytics Projects
 
-Kumpulan proyek analisis data yang saya kerjakan dalam perjalanan memperoleh sertifikasi Data Analyst.  
-Setiap proyek memiliki mini README masing-masing untuk detail analisis dan insight.  
+Kumpulan proyek analisis data yang saya kerjakan dalam perjalanan memperoleh sertifikasi Data Analyst maupun eksplorasi pembelajaran mandiri. Setiap proyek memiliki mini README masing-masing untuk detail analisis dan insight.  
 
 ---
 
@@ -13,5 +12,5 @@ Setiap proyek memiliki mini README masing-masing untuk detail analisis dan insig
 - 📈 **[UK E-Commerce Analysis](uk-ecommerce-analysis/README.md)** – ✅ Intermediate Certification Project  
   Analisis produk terlaris, Cohort Retention, Time Series, Price Elasticity, Market Basket Analysis, serta Tableau Dashboard interaktif.  
 
-- 🌦️ **[Weather Data Analysis](https://github.com/hfz1988/weather-analysis)** – 📚 Learning Project  
+- 🌦️ **[Weather Data Analysis](weather-analysis/README.md)** – 📚 Learning Project  
   SQL query practice dan data visualization menggunakan Python.  
