@@ -42,7 +42,7 @@ Berikut beberapa proyek analisis data yang saya kerjakan dalam rangka sertifikas
   🖼️ Preview:  
   ![UK E-Commerce Dashboard](images/uk-ecommerce-dashboard.png)  
 
-- **[Weather Data Analysis](https://github.com/hfz1988/weather-analysis)** 📚 Learning Project  
+- **[Weather Data Analysis](projects/weather-analysis/README.md)** 📚 Learning Project  
   SQL query practice dan data visualization menggunakan Python.  
 
 ---
