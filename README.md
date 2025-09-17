@@ -43,7 +43,7 @@ Berikut beberapa proyek analisis data yang saya kerjakan dalam rangka sertifikas
   ![UK E-Commerce Dashboard](images/uk-ecommerce-dashboard.png)  
 
 - **[Weather Data Analysis](projects/weather-analysis/README.md)** 📚 Learning Project  
-  SQL query practice dan data visualization menggunakan Python.  
+  SQL query practice dan data visualization menggunakan Python. Eksploratori insights dan interpretasi data pola cuaca ekstrem.
 
 ---
 
