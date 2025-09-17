@@ -31,7 +31,7 @@ Proyek ini merupakan bagian dari **Intermediate Data Analyst Certification**.
 ---
 
 🖼️ **Preview (Tableau Dashboard)**  
-![UK E-Commerce Dashboard](uk-ecommerce-dashboard.png)  
+![UK E-Commerce Dashboard](images/uk-ecommerce-dashboard.png)  
 
 ---
 
